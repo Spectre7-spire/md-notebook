@@ -20,7 +20,7 @@ root
 ```
 
 ### MicroCorruption
-[Click here to open the writeup for each step of the cracking process](./CTF/RE_MicroCorruption.com/writeup.md)
+[Click here to open the writeup for each level](./CTF/RE_MicroCorruption.com/writeup.md)
 
 ### Useful Links
 [Trail Of Bits](https://trailofbits.github.io/ctf/): Great place to start for a newcomer. Has lots of content related to capture the flags and more.
